@@ -1,0 +1,2 @@
+# BushfireAi
+Bush fire detection
